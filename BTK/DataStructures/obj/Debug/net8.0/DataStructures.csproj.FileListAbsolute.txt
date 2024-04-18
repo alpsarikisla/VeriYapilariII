@@ -1,0 +1,11 @@
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\bin\Debug\net8.0\DataStructures.deps.json
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\bin\Debug\net8.0\DataStructures.dll
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\bin\Debug\net8.0\DataStructures.pdb
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\obj\Debug\net8.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfo.cs
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\obj\Debug\net8.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\obj\Debug\net8.0\DataStructures.dll
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\obj\Debug\net8.0\refint\DataStructures.dll
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\obj\Debug\net8.0\DataStructures.pdb
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\DataStructures\obj\Debug\net8.0\ref\DataStructures.dll

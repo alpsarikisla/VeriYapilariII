@@ -1,0 +1,11 @@
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\bin\Debug\net8.0\CustomTypes.deps.json
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\bin\Debug\net8.0\CustomTypes.dll
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\bin\Debug\net8.0\CustomTypes.pdb
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\obj\Debug\net8.0\CustomTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\obj\Debug\net8.0\CustomTypes.AssemblyInfoInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\obj\Debug\net8.0\CustomTypes.AssemblyInfo.cs
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\obj\Debug\net8.0\CustomTypes.csproj.CoreCompileInputs.cache
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\obj\Debug\net8.0\CustomTypes.dll
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\obj\Debug\net8.0\refint\CustomTypes.dll
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\obj\Debug\net8.0\CustomTypes.pdb
+C:\Users\ramse\Desktop\Veri Yapıları II (İleri Seviye)\BTK\CustomTypes\obj\Debug\net8.0\ref\CustomTypes.dll

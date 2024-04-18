@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131 II (\u0130leri Seviye)\\BTK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B7477-CE75-48B7-AFF4-372F5CC6AB18}|Apps\\Apps.csproj|c:\\users\\ramse\\desktop\\veri yap\u0131lar\u0131 ii (\u0130leri seviye)\\btk\\apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55B7477-CE75-48B7-AFF4-372F5CC6AB18}|Apps\\Apps.csproj|solutionrelative:apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131 II (\u0130leri Seviye)\\BTK\\Apps\\Program.cs",
+              "RelativeDocumentMoniker": "Apps\\Program.cs",
+              "ToolTip": "C:\\Users\\ramse\\Desktop\\Veri Yap\u0131lar\u0131 II (\u0130leri Seviye)\\BTK\\Apps\\Program.cs",
+              "RelativeToolTip": "Apps\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:51:27.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
