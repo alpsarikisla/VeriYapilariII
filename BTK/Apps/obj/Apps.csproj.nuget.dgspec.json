@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\Apps\\Apps.csproj": {}
+    "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\Apps\\Apps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\Apps\\Apps.csproj": {
+    "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\Apps\\Apps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\Apps\\Apps.csproj",
+        "projectUniqueName": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\Apps\\Apps.csproj",
         "projectName": "Apps",
-        "projectPath": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\Apps\\Apps.csproj",
-        "packagesPath": "C:\\Users\\ramse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\Apps\\obj\\",
+        "projectPath": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\Apps\\Apps.csproj",
+        "packagesPath": "C:\\Users\\Alp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\Apps\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ramse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,18 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\CustomTypes\\CustomTypes.csproj": {
-                "projectPath": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\CustomTypes\\CustomTypes.csproj"
+              "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\CustomTypes\\CustomTypes.csproj": {
+                "projectPath": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\CustomTypes\\CustomTypes.csproj"
               },
-              "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\DataStructures\\DataStructures.csproj": {
-                "projectPath": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\DataStructures\\DataStructures.csproj"
+              "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\DataStructures\\DataStructures.csproj": {
+                "projectPath": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\DataStructures\\DataStructures.csproj"
               }
             }
           }
@@ -46,11 +41,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,30 +57,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\CustomTypes\\CustomTypes.csproj": {
+    "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\CustomTypes\\CustomTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\CustomTypes\\CustomTypes.csproj",
+        "projectUniqueName": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\CustomTypes\\CustomTypes.csproj",
         "projectName": "CustomTypes",
-        "projectPath": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\CustomTypes\\CustomTypes.csproj",
-        "packagesPath": "C:\\Users\\ramse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\CustomTypes\\obj\\",
+        "projectPath": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\CustomTypes\\CustomTypes.csproj",
+        "packagesPath": "C:\\Users\\Alp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\CustomTypes\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ramse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,7 +79,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,11 +91,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -132,30 +107,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\DataStructures\\DataStructures.csproj": {
+    "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\DataStructures\\DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\DataStructures\\DataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\DataStructures\\DataStructures.csproj",
         "projectName": "DataStructures",
-        "projectPath": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\DataStructures\\DataStructures.csproj",
-        "packagesPath": "C:\\Users\\ramse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramse\\Desktop\\Veri Yapıları II (İleri Seviye)\\BTK\\DataStructures\\obj\\",
+        "projectPath": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\DataStructures\\DataStructures.csproj",
+        "packagesPath": "C:\\Users\\Alp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alp\\Documents\\GitHub\\VeriYapilariII\\BTK\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ramse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -163,7 +129,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -176,11 +141,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -197,12 +157,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

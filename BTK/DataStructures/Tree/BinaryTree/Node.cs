@@ -8,6 +8,7 @@ namespace DataStructures.Tree.BinaryTree
 {
     public class Node<T>
     {
+        //Alp Buradaydı
         public T Value { get; set; }
         public Node<T> Left { get; set; }
         public Node<T> Right { get; set; }
